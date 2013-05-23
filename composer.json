@@ -1,7 +1,7 @@
 {
     "name": "streamlinesocial/phpqatools",
     "type": "metapackage",
-    "keywords": ["php", "qa", "tools", "debug"]
+    "keywords": ["php", "qa", "tools", "debug"],
     "require": {
         "symfony/symfony": "2.2.x-dev",
         "symfony/finder": "2.2.x-dev",
